@@ -43,7 +43,7 @@
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="jQuery" />
-      <br>jQuery
+      <br>Postman
     </td>  
   </tr> -->
 
@@ -82,7 +82,7 @@
     </td>
     <td align="center" width="96">      
         <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="Nodejs" />
-      <br>Postman
+      <br>JQuery
     </td>
   </tr>
 </table>
