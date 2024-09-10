@@ -4,11 +4,11 @@
 - 👨‍💻 I’m currently working as Backend .NET Developer.
 - 🌱 I aspire to become one of the best software engineers in the world.
   
-💻 My favorite Tools and Technologies
+## 💻 My favorite Tools and Technologies
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
-  <tr>    
+<!--   <tr>    
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
@@ -42,10 +42,10 @@
       <br>Angular
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="jQuery" />
       <br>jQuery
     </td>  
-  </tr>
+  </tr> -->
 
   <tr>
     <td align="center" width="96">
@@ -80,8 +80,8 @@
         <img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48" alt="VsCode" />
       <br>VS
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Nodejs" />
+    <td align="center" width="96">      
+        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="Nodejs" />
       <br>Postman
     </td>
   </tr>
