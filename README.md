@@ -18,7 +18,7 @@
       <br><strong>LINQ</strong> 
     </td>     
     <td align="center" style="width: 100px; height: 120px; vertical-align: bottom;">
-        <img src="https://github.com/campusMVP/dotnetCoreLogoPack/blob/master/.NET%20Core/Bitmap%20RGB/Bitmap-BIG_NET-Core-Logo_2colors_Square_RGB.png" alt=".NET" width="65" height="65" /> 
+        <img src="https://github.com/campusMVP/dotnetLogoPack/blob/main/dotNET/bitmap/logo_.NET_RGB.png" alt=".NET" width="65" height="65" /> 
         <br><strong>.NET Core</strong> 
       </td> 
         <td align="center" style="width: 100px; height: 120px; vertical-align: bottom;">
