@@ -1,10 +1,29 @@
 # Hi there, I'm Mahmoud Saleh 👋
+🌟 **Software Engineer | .NET Backend Developer | Aspiring Tech Leader**
+💻 Passionate about building high-performance, scalable, and secure applications with **ASP.NET Core**, **EF Core**, and **SQL Server**.
 
-## 💼 About Me
-- 👨‍💻 I’m currently working as Backend .NET Developer.
-- 🌱 I aspire to become one of the best software engineers in the world.
-- 🚀 Continuously learning and exploring new technologies to enhance my skills.
-  
+## ✨ Key Skills & Interests:
+- Backend Development with **C#** and **ASP.NET Core**
+- **Repository & UnitOfWork Patterns**, 3-Tier Architecture
+- **CQRS & MediatR**, Clean Architecture
+- Building RESTful APIs with **JWT Authentication** and **ASP.NET Identity**
+- E-Commerce Platforms, Role-Based Access Control, and Payment Gateways
+- CI/CD pipelines and Version Control with **Git & GitHub**
+
+## 🚀 What Drives Me:
+As a Programming geek and aspiring **world-class software engineer**, I'm constantly learning and honing my skills to create robust and user-centric applications. My projects reflect my dedication to clean code, performance optimization, and secure development practices.
+
+## 🎯 Current Focus:
+- Exploring advanced testing methodologies and cloud hosting solutions
+- Mastering **Docker** and **Containerization** to improve application scalability and deployment.
+- Exploring **Design Patterns** and **System Design** principles to build scalable, maintainable, and efficient software systems.
+- Diving into different **Database Types** (Relational, NoSQL, and In-Memory) and techniques to optimize database design and performance.
+- Strengthening **DevOps** expertise by automating workflows with **CI/CD pipelines**, infrastructure as code, and monitoring tools to ensure smooth and efficient deployments.
+
+## 📌 Let's Connect:
+Feel free to explore my repositories and connect for exciting collaborations or discussions! Together, we can build amazing things.
+
+
 ## 💻 My Favorite Tools and Technologies
 
 <table align="center" style="table-layout: fixed; width: 100%; border-spacing: 10px;"> 
