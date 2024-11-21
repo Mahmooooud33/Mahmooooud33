@@ -3,118 +3,66 @@
 ## 💼 About Me
 - 👨‍💻 I’m currently working as Backend .NET Developer.
 - 🌱 I aspire to become one of the best software engineers in the world.
+- 🚀 Continuously learning and exploring new technologies to enhance my skills.
   
 ## 💻 My Favorite Tools and Technologies
 
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>
-<!--       C# -->
-    </td>
-    <td align="center"  width="96">
-        <img src="https://simpleicons.org/icons/awslambda.svg" width="48" height="48" alt="Laravel" />
-      <br>
-<!--       LINQ -->
-    </td>
-    <td align="center" width="96">
-        <img src="https://github.com/campusMVP/dotnetLogoPack/blob/main/dotNET/bitmap/logo_.NET_RGB_square-negative.png" alt="icon" width="65" height="65" />
-      <br>
-<!--       .NET -->
-    </td>
-     <td align="center" width="96">
-        <img src="https://github.com/campusMVP/dotnetLogoPack/blob/main/ASP.NET/bitmap/logo_ASP.NET_RGB_square.png" alt="icon" width="65" height="65" />
-      <br>
-<!--       ASP.NET -->
-    </td>
-    <td align="center" width="96">
-        <img src="https://github.com/campusMVP/dotnetLogoPack/blob/main/ASP.NET%20MVC/bitmap/logo_ASP.NET-MVC_RGB_square.png" alt="icon" width="65" height="65" />
-      <br>
-<!--       ASP.NET MVC -->
-    </td>
-    <td align="center" width="96">
-        <img src="https://github.com/campusMVP/dotnetLogoPack/blob/main/ADO.NET%20Entity%20Framework/bitmap/logo_ADO.NET-Entity-Framework_RGB_square.png" alt="icon" width="65" height="65" />
-      <br>
-<!--       ADO.NET Entity-Framework -->
-    </td>    
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-      <br>
-<!--       Github -->
+<table align="center"> 
+  <tr> 
+    <td align="center" width="96"> 
+      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" /> 
+      <br><strong>C#</strong> 
+    </td> 
+    <td align="center" width="96"> 
+      <img src="https://simpleicons.org/icons/awslambda.svg" alt="LINQ" width="48" height="48" /> 
+      <br><strong>LINQ</strong> </td> <td align="center" width="96"> 
+        <img src="https://github.com/campusMVP/dotnetCoreLogoPack/blob/master/.NET%20Core/Bitmap%20RGB/Bitmap-BIG_NET-Core-Logo_2colors_Square_RGB.png" alt=".NET" width="65" height="65" /> 
+        <br><strong>.NET</strong> 
+      </td> 
+    <td align="center" width="96"> 
+      <img src="https://github.com/campusMVP/dotnetLogoPack/blob/main/ASP.NET/bitmap/logo_ASP.NET_RGB_square.png" alt="ASP.NET" width="65" height="65" /> 
+      <br><strong>ASP.NET</strong> 
+    </td> 
+    <td align="center" width="96"> 
+      <img src="https://github.com/campusMVP/dotnetCoreLogoPack/blob/master/Entity%20Framework%20Core/Bitmap%20RGB/Bitmap-BIG_Entity-Framework-Logo_2colors_Square_RGB.png" alt="Entity Framework" width="65" height="65" /> 
+      <br><strong>EF Core</strong> 
     </td>
     <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>
-<!--       Git -->
-    </td>    
-  </tr>
-  
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="MySQL" />
-      <br>
-<!--       GraphQL -->
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
-      <br>
-<!--       VsCode -->
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48" alt="VsCode" />
-      <br>
-<!--       VS -->
-    </td>
-    <td align="center" width="96">      
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="Nodejs" />
-      <br>
-<!--       JQuery -->
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>
-<!--       HTML5 -->
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>
-<!--       CSS -->
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=js" alt="icon" width="65" height="65" />
-      <br>
-<!--       JavaScript -->
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="jQuery" />
-      <br>
-<!--       Postman -->
+      <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="48" height="48" /> 
+      <br><strong>VS Code</strong> 
     </td> 
-  </tr>
-  
-<!--   <tr>            
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
-      <br>Sass
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
-    </td>
-    
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ts" alt="icon" width="65" height="65" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=angular" alt="icon" width="65" height="65" />
-      <br>Angular
-    </td>    
-  </tr> -->  
+    <td align="center" width="96"> 
+      <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" width="48" height="48" /> 
+      <br><strong>VS</strong> 
+    </td>     
+  </tr> 
+  <tr> 
+    <td align="center" width="96"> 
+      <img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" width="48" height="48" /> 
+      <br><strong>GraphQL</strong> 
+    </td> 
+    <td align="center" width="96"> 
+      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="48" height="48" /> 
+      <br><strong>Git</strong> 
+    </td> 
+    <td align="center" width="96"> 
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" /> 
+      <br><strong>GitHub</strong> 
+    </td>  
+    <td align="center" width="96"> 
+      <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" width="48" height="48" /> 
+      <br><strong>jQuery</strong> 
+    </td> 
+    <td align="center" width="96"> 
+      <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="48" height="48" /> 
+      <br><strong>HTML5</strong> 
+    </td> 
+    <td align="center" width="96"> 
+      <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" height="48" /> 
+      <br><strong>CSS</strong>
+    </td> <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="48" height="48" /> 
+      <br><strong>Postman</strong> 
+    </td> 
+  </tr> 
 </table>
