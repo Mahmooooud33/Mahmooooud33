@@ -49,41 +49,51 @@ Feel free to explore my repositories and connect for exciting collaborations or 
       <br><strong>EF Core</strong> 
     </td>
         <td align="center" style="width: 120px; height: 120px; vertical-align: bottom;">
+      <img src="https://repository-images.githubusercontent.com/1613345/9d4ed380-a8e8-11eb-9f21-c8c87b0f4275" alt="Dapper" width="65" height="65" /> 
+      <br><strong>Dapper</strong> 
+    </td> 
+        <td align="center" style="width: 120px; height: 120px; vertical-align: bottom;">
+      <img src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" alt="SQL Server" width="65" height="65" /> 
+      <br><strong>SQL Server</strong> 
+    </td>
+    <td align="center" style="width: 120px; height: 120px; vertical-align: bottom;">
+      <img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" width="65" height="65" /> 
+      <br><strong>GraphQL</strong> 
+    </td> 
+  </tr> 
+  <tr>  
+    <td align="center" style="width: 120px; height: 120px; vertical-align: bottom;">
+      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="65" height="65" /> 
+      <br><strong>Git</strong> 
+    </td> 
+    <td align="center" style="width: 120px; height: 120px; vertical-align: bottom;">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" /> 
+      <br><strong>GitHub</strong> 
+    </td>  
+    <td align="center" style="width: 120px; height: 120px; vertical-align: bottom;">
+      <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" width="65" height="65" /> 
+      <br><strong>jQuery</strong> 
+    </td> 
+    <td align="center" style="width: 120px; height: 120px; vertical-align: bottom;">
+      <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="65" height="65" /> 
+      <br><strong>HTML5</strong> 
+    </td> 
+    <td align="center" style="width: 120px; height: 120px; vertical-align: bottom;">
+      <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="65" height="65" /> 
+      <br><strong>CSS</strong>
+    </td>
+    <td align="center" style="width: 120px; height: 120px; vertical-align: bottom;">
+      <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="65" height="65" /> 
+      <br><strong>Postman</strong> 
+    </td>
+     </td>
+        <td align="center" style="width: 120px; height: 120px; vertical-align: bottom;">
       <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="65" height="65" /> 
       <br><strong>VS Code</strong> 
     </td> 
         <td align="center" style="width: 120px; height: 120px; vertical-align: bottom;">
       <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" width="65" height="65" /> 
       <br><strong>VS</strong> 
-    </td>     
-  </tr> 
-  <tr> 
-        <td align="center" style="width: 120px; height: 120px; vertical-align: bottom;">
-      <img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" width="65" height="65" /> 
-      <br><strong>GraphQL</strong> 
-    </td> 
-        <td align="center" style="width: 120px; height: 120px; vertical-align: bottom;">
-      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="65" height="65" /> 
-      <br><strong>Git</strong> 
-    </td> 
-        <td align="center" style="width: 120px; height: 120px; vertical-align: bottom;">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" /> 
-      <br><strong>GitHub</strong> 
-    </td>  
-        <td align="center" style="width: 120px; height: 120px; vertical-align: bottom;">
-      <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" width="65" height="65" /> 
-      <br><strong>jQuery</strong> 
-    </td> 
-        <td align="center" style="width: 120px; height: 120px; vertical-align: bottom;">
-      <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="65" height="65" /> 
-      <br><strong>HTML5</strong> 
-    </td> 
-        <td align="center" style="width: 120px; height: 120px; vertical-align: bottom;">
-      <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="65" height="65" /> 
-      <br><strong>CSS</strong>
-        <td align="center" style="width: 120px; height: 120px; vertical-align: bottom;">
-      <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="65" height="65" /> 
-      <br><strong>Postman</strong> 
-    </td> 
+    </td>
   </tr> 
 </table>
