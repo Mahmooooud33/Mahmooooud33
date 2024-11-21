@@ -1,5 +1,5 @@
 # Hi there, I'm Mahmoud Saleh 👋
-🌟 **Software Engineer | .NET Backend Developer | Aspiring Tech Leader**
+🌟 **Software Engineer | .NET Backend Developer**  
 💻 Passionate about building high-performance, scalable, and secure applications with **ASP.NET Core**, **EF Core**, and **SQL Server**.
 
 ## ✨ Key Skills & Interests:
